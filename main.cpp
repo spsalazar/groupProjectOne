@@ -5,5 +5,7 @@ int main(){
 
     cout<< "Seth Paolo Salazar" << endl;
 
+    cout<< "Anthony Vargas" << endl;
+
     
 }
