@@ -8,5 +8,7 @@ int main(){
     cout<< "Anthony Vargas" << endl;
 
     cout<< "Adrian Valdez" << endl;
+
+    cout<< "Luis De La Cruz" << endl;
     
 }
